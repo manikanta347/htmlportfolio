@@ -1,0 +1,29 @@
+*{
+margin: 0;
+}
+#div1{
+background-image:url('https://c8.alamy.com/comp/2D4NFFA/laptop-keyboard-with-backlight-macbook-2D4NFFA.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+padding-top:50px;
+color:white;
+height:30%
+}
+#div2{
+background-color:white;
+height:15%;
+padding-left: 250px;
+padding-top:50px;
+}
+#div3{
+background-color:pink;
+height:25%;
+padding-left: 250px;
+padding-top:50px;
+}
+#div4{
+background-color:white;
+height:15%;
+padding-left: 250px;
+padding-top:50px;
+}
